@@ -1,4 +1,6 @@
-# Programming Project 3
+# Longest Common Subsequence Problem (LCS) using Dynamic Programming
+
+#### As a part of Course EN.605.620 Algorithms for Bioinformatics
 
 This project aims to compare the performance of longest common subsequence problem (LCS) using dynamic programming.
 The project counts individual cell comparisons to serve as a basis for comparison, and it handles alphanuermic strings.
