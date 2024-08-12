@@ -1,0 +1,132 @@
+String 1: S1 - ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+String 1 Length: 29
+String 2: S2 - GTCGTTCGGAATGCCGTTGCTCTGTAAA
+String 2 Length: 28
+LCS: GTCGTCGGAAGCCGGCCGAA
+LCS Length: 20
+Total operations: 870
+Character comparisons: 196
+Runtime: 0.0002779960632324219 seconds
+===========================================================================
+
+String 1: S2 - GTCGTTCGGAATGCCGTTGCTCTGTAAA
+String 1 Length: 28
+String 2: S1 - ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+String 2 Length: 29
+LCS: GTCGTCGGAAGCCGGCCGAA
+LCS Length: 20
+Total operations: 870
+Character comparisons: 196
+Runtime: 0.0002522468566894531 seconds
+===========================================================================
+
+String 1: S1 - ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+String 1 Length: 29
+String 2: S3 - ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+String 2 Length: 40
+LCS: ATGCTGCGCGGAGCGGCCG
+LCS Length: 19
+Total operations: 1230
+Character comparisons: 271
+Runtime: 0.0003566741943359375 seconds
+===========================================================================
+
+String 1: S3 - ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+String 1 Length: 40
+String 2: S1 - ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+String 2 Length: 29
+LCS: ACCGGCGATGCGGAACCCG
+LCS Length: 19
+Total operations: 1230
+Character comparisons: 271
+Runtime: 0.0003578662872314453 seconds
+===========================================================================
+
+String 1: S1 - ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+String 1 Length: 29
+String 2: S4 - CTTGCTTAAATGTGCA
+String 2 Length: 16
+LCS: CTTGCAAGGCA
+LCS Length: 11
+Total operations: 510
+Character comparisons: 99
+Runtime: 0.00015115737915039062 seconds
+===========================================================================
+
+String 1: S4 - CTTGCTTAAATGTGCA
+String 1 Length: 16
+String 2: S1 - ACCGGTCGACTGCGCGGAAGCCGGCCGAA
+String 2 Length: 29
+LCS: CTGCTAAGGCA
+LCS Length: 11
+Total operations: 510
+Character comparisons: 99
+Runtime: 0.0001480579376220703 seconds
+===========================================================================
+
+String 1: S2 - GTCGTTCGGAATGCCGTTGCTCTGTAAA
+String 1 Length: 28
+String 2: S3 - ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+String 2 Length: 40
+LCS: TGTTGATGCCGTGCTTGTAA
+LCS Length: 20
+Total operations: 1189
+Character comparisons: 297
+Runtime: 0.0003399848937988281 seconds
+===========================================================================
+
+String 1: S3 - ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+String 1 Length: 40
+String 2: S2 - GTCGTTCGGAATGCCGTTGCTCTGTAAA
+String 2 Length: 28
+LCS: GCTTCGGGCCGTGCTTGTAA
+LCS Length: 20
+Total operations: 1189
+Character comparisons: 297
+Runtime: 0.0003459453582763672 seconds
+===========================================================================
+
+String 1: S2 - GTCGTTCGGAATGCCGTTGCTCTGTAAA
+String 1 Length: 28
+String 2: S4 - CTTGCTTAAATGTGCA
+String 2 Length: 16
+LCS: CTTGAATGTGCA
+LCS Length: 12
+Total operations: 493
+Character comparisons: 116
+Runtime: 0.0001437664031982422 seconds
+===========================================================================
+
+String 1: S4 - CTTGCTTAAATGTGCA
+String 1 Length: 16
+String 2: S2 - GTCGTTCGGAATGCCGTTGCTCTGTAAA
+String 2 Length: 28
+LCS: GCTTAATGTGCA
+LCS Length: 12
+Total operations: 493
+Character comparisons: 116
+Runtime: 0.0001418590545654297 seconds
+===========================================================================
+
+String 1: S3 - ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+String 1 Length: 40
+String 2: S4 - CTTGCTTAAATGTGCA
+String 2 Length: 16
+LCS: CTTGCTTAAATTG
+LCS Length: 13
+Total operations: 697
+Character comparisons: 169
+Runtime: 0.0002040863037109375 seconds
+===========================================================================
+
+String 1: S4 - CTTGCTTAAATGTGCA
+String 1 Length: 16
+String 2: S3 - ATTGCATTGCATGGGCGCGATGCATTTGGTTAATTCCTCG
+String 2 Length: 40
+LCS: TTGCTTATGTGCA
+LCS Length: 13
+Total operations: 697
+Character comparisons: 169
+Runtime: 0.00019884109497070312 seconds
+===========================================================================
+

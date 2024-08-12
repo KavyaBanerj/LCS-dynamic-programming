@@ -1,0 +1,22 @@
+String 1: S5 - ABCDEFG
+String 1 Length: 7
+String 2: S6 - ABDFFG
+String 2 Length: 6
+LCS: ABDFG
+LCS Length: 5
+Total operations: 56
+Character comparisons: 6
+Runtime: 2.5987625122070312e-05 seconds
+===========================================================================
+
+String 1: S6 - ABDFFG
+String 1 Length: 6
+String 2: S5 - ABCDEFG
+String 2 Length: 7
+LCS: ABDFG
+LCS Length: 5
+Total operations: 56
+Character comparisons: 6
+Runtime: 2.0265579223632812e-05 seconds
+===========================================================================
+
